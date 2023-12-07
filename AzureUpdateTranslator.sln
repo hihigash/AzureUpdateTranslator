@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureUpdateTranslator.Server", "AzureUpdateTranslator.Server\AzureUpdateTranslator.Server.csproj", "{88A686E8-1849-45FD-8B72-B26B8CE94404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureUpdateTranslator.Client", "AzureUpdateTranslator.Client\AzureUpdateTranslator.Client.csproj", "{1E98C132-1177-4F80-BB1D-C713F1CCCB68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureUpdateTranslator.Client", "AzureUpdateTranslator.Client\AzureUpdateTranslator.Client.csproj", "{1E98C132-1177-4F80-BB1D-C713F1CCCB68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureUpdateTranslator.Share", "AzureUpdateTranslator.Share\AzureUpdateTranslator.Share.csproj", "{15B6EA23-018A-46BE-9059-00903EB96233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureUpdateTranslator.Share", "AzureUpdateTranslator.Share\AzureUpdateTranslator.Share.csproj", "{15B6EA23-018A-46BE-9059-00903EB96233}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
